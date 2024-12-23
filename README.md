@@ -7,7 +7,7 @@ Hi there! I'm **winx-T**, a passionate Computer Science student and tech enthusi
 
 ## Connect with Me
 
-- ✉️ Email: [[ali.belyoum.68@edu.uiz.ac.ma](mailto\:ali.belyoum.68@edu.uiz.ac.ma)]
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact)
