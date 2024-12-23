@@ -13,11 +13,4 @@ Hi there! I'm **winx-T**, a passionate Computer Science student and tech enthusi
 🏆 GitHub Trophies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winx-T&show_icons=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=winx-T&theme=radical)
-📈 GitHub Stats
-markdown
-Copy code
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winx-T&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=winx-T&theme=radical)
-### 🌟 Projects
-- [Image Converter App](https://github.com/winx-T/image-converter-app): A powerful tool for image manipulation.
-- [Weather App](https://github.com/winx-T/WEATHER_WEB_APP): A stunning, responsive app with real-time weather updates.
+
