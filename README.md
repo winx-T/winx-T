@@ -1,6 +1,6 @@
 # 🚀 Welcome to winx-T's Lab
 
-<a href="https://winx-T.github.io/winx-lab/" target="_blank">
+<a href="https://winx-t.github.io/winx-T/" target="_blank">
     <button style="background-color: #4CAF50; color: white; padding: 15px 32px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">
         Go to winx-T's Lab Page
     </button>
