@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm **winx-T**, a passionate Computer Science student and tech enthusiast. I love exploring new technologies and building innovative projects. Here are a few things about me:
+Hi there! I'm **winx-T**, a passionate Computer Science student and tech enthusiast. I love exploring new technologies and building innovative projects.
 
 
 ## Connect with Me
