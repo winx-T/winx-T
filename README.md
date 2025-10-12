@@ -1,6 +1,7 @@
 <div align="center">   
  
-# 🚀 Welcome to **winx-T's Lab**
+# 👋 Welcome to my profile
+
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
@@ -12,7 +13,7 @@
 
 
     
- Computer Science enthusiast with a passion for creating innovative solutions. Always learning, always coding, always pushing the boundaries of what's possible.
+Hey World! I'm **winx-T**! Computer Science enthusiast with a passion for creating innovative solutions. Always learning, always coding, always pushing the boundaries of what's possible.
 
 
 
@@ -39,7 +40,7 @@
 ## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" width="40%" />
 </p>
 
 
