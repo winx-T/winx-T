@@ -40,7 +40,7 @@ Hey World! I'm **winx-T**! Computer Science enthusiast with a passion for creati
 ## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
 </p>
 
 
