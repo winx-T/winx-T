@@ -3,7 +3,6 @@
 # 👋 Welcome to my profile
 
 
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
 
@@ -14,7 +13,6 @@
 
     
 Hey World! I'm **winx-T**! Computer Science enthusiast with a passion for creating innovative solutions. Always learning, always coding, always pushing the boundaries of what's possible.
-
 
 
 ---
@@ -40,7 +38,8 @@ Hey World! I'm **winx-T**! Computer Science enthusiast with a passion for creati
 ## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
+  <!-- GitHub Readme Stats service is temporarily down. Using a fallback badge until it's restored. -->
+  [![Top Languages](https://img.shields.io/badge/Top-Languages-Unavailable-lightgrey?style=for-the-badge&logo=github)](https://github.com/winx-T?tab=repositories)
 </p>
 
 
