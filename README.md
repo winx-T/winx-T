@@ -38,9 +38,9 @@ Hey World! I'm **winx-T**! Computer Science enthusiast with a passion for creati
 ## 📊 Language Stats
 
 <p align="center">
-  <!-- GitHub Readme Stats service is temporarily down. Using a fallback badge until it's restored. -->
-  [![Top Languages](https://img.shields.io/badge/Top-Languages-Unavailable-lightgrey?style=for-the-badge&logo=github)](https://github.com/winx-T?tab=repositories)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winx-T&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
 </p>
+
 
 
 <div align="center">
